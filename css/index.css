@@ -1,0 +1,211 @@
+
+
+
+body #advice{
+
+    background-image: url("../images/IMG_8.jpg");
+}
+body #problem{
+	background-image: url("../images/Background what girl power is.jpg");
+}
+body #example{
+	background-image: url("../images/IMG_8.jpg");
+}
+body #solution{
+	background-image: url("../images/Background what girl power is.jpg");
+}
+
+}
+
+
+.item {
+	height: 500px;
+}
+
+.girl1 {    
+   color: #FF1493 ;
+   font-size:70px;
+
+
+
+}
+#pic2 h3 {
+	font-size: 25px;
+	font-style: oblique;
+	color : black ;
+}
+#pic3 
+h2 {
+	font-size: 30px;
+	font-style: "Times New Roman", Serif; 
+	font-weight: bold ;
+	color: black ;
+}
+#pic4 h2 {
+	font-size: 30px;
+	font-style: "Times New Roman", Serif; 
+	font-weight: bold ;
+	color: black ;
+}
+p {
+	color:black ;
+	font-size:20px;
+	color: black;
+}
+table, th, td {
+   border: 1px solid black;
+}
+table {
+	font-size:20px;
+	background:white;
+	width:90%;
+	height:30%;
+}
+#pic5 p {
+	font-size:24px;
+}
+
+.colomn1 {
+	width:20%;
+}
+.imp {
+	color:red ;
+}
+#tips h2 {
+	color:red;
+	font-size:28px;
+}
+.def {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+
+.pb1 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+ #t1{
+	font-size:50px;
+	color:white;
+	text-shadow: 
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.intro {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+
+}
+.tp1 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+
+
+.tp2 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.tp3 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.tp4 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.tp5{
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.tp6{
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.tp7{ 
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.tp8{
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.s1 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.s2 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+.s3 {
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
+#ex1{
+	background-color:white;
+	width:70%;
+	text-align: center ;
+	color:black;
+	border-radius: 25px;
+	opacity: 0.85;
+}
